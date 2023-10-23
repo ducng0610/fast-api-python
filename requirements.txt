@@ -1,0 +1,6 @@
+fastapi==0.103.2
+pydantic-settings==2.0.3
+uvicorn==0.23.2
+sqlalchemy
+databases[aiosqlite]
+python-dotenv

@@ -1,0 +1,6 @@
+__pycache__
+.env
+.python-version
+data.db
+test.db
+.vscode
